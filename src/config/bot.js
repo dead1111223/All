@@ -11,6 +11,7 @@ export const botConfig = {
   // - "dnd"       = red do-not-disturb
   // - "invisible" = appears offline
   presence: {online
+  
     // Current online state shown on Discord.
     status: "online",
 
